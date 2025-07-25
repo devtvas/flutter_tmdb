@@ -1,4 +1,4 @@
-import 'package:cinemapedia/domain/entities/movie.dart';
+import 'package:flutter_tmdb/domain/entities/movie.dart';
 
 
 abstract class MoviesRepository {

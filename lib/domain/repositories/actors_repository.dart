@@ -1,4 +1,4 @@
-import 'package:cinemapedia/domain/entities/actor.dart';
+import 'package:flutter_tmdb/domain/entities/actor.dart';
 
 
 abstract class ActorsRepository {
