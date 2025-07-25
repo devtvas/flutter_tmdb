@@ -1,6 +1,6 @@
-import 'package:cinemapedia/domain/datasources/actors_datasource.dart';
-import 'package:cinemapedia/domain/entities/actor.dart';
-import 'package:cinemapedia/domain/repositories/actors_repository.dart';
+import 'package:flutter_tmdb/domain/datasources/actors_datasource.dart';
+import 'package:flutter_tmdb/domain/entities/actor.dart';
+import 'package:flutter_tmdb/domain/repositories/actors_repository.dart';
 
 class ActorRepositoryImpl extends ActorsRepository {
 

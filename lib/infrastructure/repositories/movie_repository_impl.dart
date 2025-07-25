@@ -1,6 +1,6 @@
-import 'package:cinemapedia/domain/datasources/movies_datasource.dart';
-import 'package:cinemapedia/domain/entities/movie.dart';
-import 'package:cinemapedia/domain/repositories/movies_repository.dart';
+import 'package:flutter_tmdb/domain/datasources/movies_datasource.dart';
+import 'package:flutter_tmdb/domain/entities/movie.dart';
+import 'package:flutter_tmdb/domain/repositories/movies_repository.dart';
 
 
 class MovieRepositoryImpl extends MoviesRepository {

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import 'package:cinemapedia/presentation/widgets/widgets.dart';
-import 'package:cinemapedia/presentation/views/views.dart';
+import 'package:flutter_tmdb/presentation/widgets/widgets.dart';
+import 'package:flutter_tmdb/presentation/views/views.dart';
 
 
 

@@ -2,10 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:animate_do/animate_do.dart';
 
-import 'package:cinemapedia/domain/entities/movie.dart';
+import 'package:flutter_tmdb/domain/entities/movie.dart';
 
-import 'package:cinemapedia/presentation/providers/providers.dart';
-import 'package:cinemapedia/presentation/providers/movies/movie_info_provider.dart';
+import 'package:flutter_tmdb/presentation/providers/providers.dart';
+import 'package:flutter_tmdb/presentation/providers/movies/movie_info_provider.dart';
 
 class MovieScreen extends ConsumerStatefulWidget {
   static const name = 'movie-screen';
